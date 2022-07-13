@@ -1,0 +1,85 @@
+Exercício 1
+
+### Para criar uma pasta/ou diretório usamos mkdir ###
+    mkdir unix_tests
+
+### Para navegar até a pasta usamos cd + nome da pasta ###
+    cd unix_tests
+
+Exercício 2 
+
+### Para criar um arquivo de texto ou qualquer arquivo vazio usamos o touch ###
+    touch trybe.text
+
+Exercício 3 
+
+### Para criar uma cópiado arquivo usamos cp + nome desejado ###
+    cp trybe.txt trybe_backup.txt 
+
+Exercício 4
+
+### Para renomear ou mover um arquivo usamos mv ###
+    mv trybe2.txt
+
+Exercício 5
+
+### Como vimos anteriormente para criar uma pasta/ou diretório usamos mkdir ###
+    mkdir backup 
+
+Exercício 6
+
+### Para mover um arquivo usamos mv ###
+    mv trybe_backup.txt ./backup ou /backup 
+
+Exercício 7 
+
+### Para criar uma pasta/ou diretório novamente usaremos mkdir ###
+    mkdir backup2
+
+Exercício 8 
+
+### Para movermos o arquivo precisamos entrar na pasta usando cd ###
+    cd backup 
+
+### Para mover um arquivo para outra pasta usaremos novamente o mv ###
+    mv trybe_backup.txt /backup2
+
+Exercício 9
+
+### Para remover um arquivo ou diretório usamos rm -rf para forçar a exclusão ###
+    rm -rf backup
+
+Exercício 10
+
+### Para renomear a pasta backup2 usaremos mv ###
+    mv backup2 backup
+
+Exercício 11
+
+### Para listar os arquivos usamos ls ###
+    ls 
+
+Exercício 12
+
+### Para apagar o diretório forçando a remoção usamos rm -rf ###
+    rm -rf backup 
+
+Exercício 13
+
+### Para limpar o terminal usamos clear ###
+    clear
+
+Exercício 14
+
+### grep head-5 skills.txt ###
+
+Exercício 15
+
+### grep tail -4 skills.txt ###
+
+Exercício 16
+
+### Para apagar todos os arquivos terminados em .txt usamos rm *.txt ###
+
+
+
