@@ -18,7 +18,7 @@ Apague a pasta `backup.`
 
 Renomeie a pasta `backup2` para `backup.`
 
-######Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
+###### Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
 
 Apague o diretório `backup.`
 
