@@ -1,0 +1,15 @@
+.ordered-list {
+    background-color: yellow;
+}
+
+li.par-green {
+    color: green;
+}
+
+ol li.text-transf {
+    text-transform: uppercase;
+}
+
+.header {
+    color: red;
+}
