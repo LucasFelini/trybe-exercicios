@@ -13,3 +13,9 @@ ol li.text-transf {
 .header {
     color: red;
 }
+
+h1.header {
+    font-size: 40px;
+    border: 1px black solid;
+}
+
