@@ -1,0 +1,60 @@
+.ordered-list {
+    background-color: yellow;
+}
+
+li.par-green {
+    color: green;
+}
+
+ol li.text-transf {
+    text-transform: uppercase;
+}
+
+.header {
+    color: red;
+}
+
+h1.header {
+    font-size: 40px;
+    border: 1px black solid;
+}
+
+li {
+    font-size: 20px;
+}
+li em{
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.stack a:hover {
+    font-weight: bold;
+    color: orange;
+}
+
+.school a:hover {
+    font-weight: bold;
+    color: green;   
+}
+
+.mdn a:hover {
+    font-weight: bold;
+    color: black;   
+}
+
+.devdocs a:hover {
+    font-weight: bold;
+    color: yellow;
+}
+
+.trybe a:hover {
+    font-weight: bold;
+    color: green;
+}
